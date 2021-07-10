@@ -6,7 +6,7 @@ Python library for reading data from UNI-T UT61E DMM.
 
 ## Overview
 
-This library was written as a weekend project. Its main goal was to learn the UNI-T UT61E data protocol.
+This library was written as a weekend project (but not by me). Its main goal was to learn the UNI-T UT61E data protocol.
 
 ## Connecting to UT61E
 
