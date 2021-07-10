@@ -20,7 +20,8 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    py_modules=['ut61e'],
+    package_dir={'': 'src'},
+    packages=[''],
     python_requires=">=3.0",
     install_requires=[
         "pyserial>=3.3", #active release when initially this project was initially commited 
