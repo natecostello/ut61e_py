@@ -1,3 +1,5 @@
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/natecostello/ut61e_py)
+
 # UNI-T UT61E Python Library
 
 Python library for reading data from UNI-T UT61E DMM.
